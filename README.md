@@ -1,5 +1,5 @@
-# MyProject
-Website designing Internship 
+
+#ShoppingSite 
 1. Website contains Home, Products, Login, SignUp, cart in menu.
 2. On clicking home it shows the home page.
 3. On clicking products it shows all the products availanle in diff categories like featured products, new arrival.
